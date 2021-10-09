@@ -1,0 +1,36 @@
+.heading{
+    font-size:24px ;
+    width: 100%;
+    margin: 0px;
+
+}
+.note {
+font-size:18px;
+color:yellowgreen ;
+}
+body{
+    background-size: cover;
+}
+.div_speed{
+    float: left;
+}
+.speed_img{
+    width: 180px;
+    border-radius: 100px;
+}
+.color{
+    color: skyblue;
+    font-size: 27px;
+}
+.div_volume{
+    float: right;
+}
+.volume_img{
+    border-radius: 100px;
+    width:180px ;
+    
+}
+.play_button{
+    width: 120px;
+    font-size: 20px;
+}
